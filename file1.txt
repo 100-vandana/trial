@@ -8,3 +8,5 @@ Making fifth commit
 =======
 I am writing this for the branch.3.1
 >>>>>>> branch.3.1
+
+This is in addition to the branch in the file
